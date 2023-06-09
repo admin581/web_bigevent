@@ -1,0 +1,5 @@
+cropper : 是关于图片裁剪的插件
+layui : 页面布局的插件
+tinymce :副文本编辑器插件
+echarts : 图标插件
+template - web :模板引擎插件
